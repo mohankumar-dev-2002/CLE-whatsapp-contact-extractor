@@ -1,0 +1,15 @@
+{
+  "name": "CLE_WA",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "./extension.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "description": "WhatsApp contact list extractor ",
+  "permissions": ["activeTab"],
+  "manifest_version": 2
+}
