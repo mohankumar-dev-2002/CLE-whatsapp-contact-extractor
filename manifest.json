@@ -11,5 +11,5 @@
   },
   "description": "WhatsApp contact list extractor ",
   "permissions": ["activeTab"],
-  "manifest_version": 2
+  "manifest_version": 3
 }
